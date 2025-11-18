@@ -1,7 +1,6 @@
 import os
 import django
 
-# говорим Django, где настройки
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tgshop.settings')
 django.setup()
 
