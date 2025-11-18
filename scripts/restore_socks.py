@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# restore_socks.py - safely create/update sock products with correct Unicode
 import os, sys
 from decimal import Decimal
 sys.path.insert(0, r'E:/tgshop_bot/tgshop')
